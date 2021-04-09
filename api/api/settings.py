@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     'ckeditor',
     'ckeditor_uploader',
     'taggit',
-    'taggit_serializer'
+    'taggit_serializer',
+    'drf_yasg',
 
 ]
 
